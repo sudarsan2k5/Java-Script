@@ -1,4 +1,4 @@
-// nn bb ss u -> primitive in js
+// nn bb ss u -> primitive in js --> null, number, bigint, boolean, symbol, string, undefined;
 let a = null;
 let b = 345;
 let c = true; // can also be false
